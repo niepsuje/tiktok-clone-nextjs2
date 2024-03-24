@@ -44,3 +44,14 @@ raw-loader: Raw Loader to loader dla webpacka, który pozwala na ładowanie zawa
 // Modyfikujemy Webpacka aby image-js mógł działać z canvas.
 
 Webpack: create-react-app: Jest to narzędzie stworzone przez zespół React, które dostarcza gotowy szablon projektu React z prekonfigurowanym Webpackiem. Jest to jedna z najpopularniejszych opcji dla projektów opartych na React, ponieważ pozwala szybko rozpocząć pracę nad nową aplikacją bez konieczności konfigurowania Webpacka od zera.
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////
+3. MainLayout and UploadLayout
+
+    A. MainLayout działa w komponencie main page
