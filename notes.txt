@@ -1,0 +1,46 @@
+////////////////////////////////////////////////////////////////
+                    TIKTOC - clone
+////////////////////////////////////////////////////////////////
+
+
+
+////////////////////////////////////////////////////////////////
+1. Project initialization
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////
+2. Project setup
+
+    npm i appwrite debounce image-js moment react-advanced-cropper react-icons zustand @types/debounce canvas raw-loader 
+
+//Objaśnienie każdego z wymienionych pakietów:
+
+appwrite: Appwrite to platforma do budowy serwerów backendowych, która zapewnia gotowe do użycia funkcje, takie jak autoryzacja, bazy danych, przechowywanie plików, poczta elektroniczna i wiele innych. Umożliwia tworzenie wszechstronnych aplikacji internetowych i mobilnych.
+
+debounce: Pakiet debounce służy do opóźniania wykonania funkcji w czasie. Zapobiega on częstemu wywoływaniu funkcji poprzez grupowanie wielu kolejnych wywołań w pojedyncze wywołanie po upływie określonego czasu.
+
+image-js: Pakiet image-js to biblioteka do manipulowania obrazami w języku JavaScript. Umożliwia operacje takie jak wczytywanie, przetwarzanie, analiza i zapisywanie obrazów w różnych formatach.
+
+moment: Moment.js to biblioteka do manipulowania datami i czasem w języku JavaScript. Umożliwia łatwe tworzenie, analizowanie, manipulowanie i formatowanie dat i czasu.
+
+react-advanced-copper: Pakiet react-advanced-copper to zestaw narzędzi i komponentów dla React, który pomaga w tworzeniu zaawansowanych interfejsów użytkownika.
+
+react-icons: React Icons to zestaw ikon gotowych do użycia w aplikacjach React. Udostępnia on duży wybór ikon z różnych zestawów ikon, które można łatwo importować i używać w aplikacji.
+
+zustand: Zustand to prosta biblioteka do globalnego zarządzania stanem dla aplikacji React. Zapewnia łatwe i wydajne zarządzanie stanem aplikacji poprzez wykorzystanie hooków i funkcji dostarczanych przez React.
+
+@types/debounce: Pakiet @types/debounce to paczka zawierająca definicje typów TypeScript dla biblioteki debounce. Umożliwia to korzystanie z debounce w projektach pisanych w TypeScript.
+
+canvas: Pakiet canvas to moduł Node.js do rysowania grafiki wektorowej i bitmapowej przy użyciu interfejsu Canvas API.
+
+raw-loader: Raw Loader to loader dla webpacka, który pozwala na ładowanie zawartości plików jako stringów tekstowych, bez interpretowania ich jako modułów JavaScript. Jest przydatny do ładowania plików tekstowych, takich jak pliki konfiguracyjne, szablony HTML, itp.
+
+
+// Modyfikujemy Webpacka aby image-js mógł działać z canvas.
+
+Webpack: create-react-app: Jest to narzędzie stworzone przez zespół React, które dostarcza gotowy szablon projektu React z prekonfigurowanym Webpackiem. Jest to jedna z najpopularniejszych opcji dla projektów opartych na React, ponieważ pozwala szybko rozpocząć pracę nad nową aplikacją bez konieczności konfigurowania Webpacka od zera.
