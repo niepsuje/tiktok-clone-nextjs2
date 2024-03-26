@@ -54,4 +54,10 @@ Webpack: create-react-app: Jest to narzędzie stworzone przez zespół React, kt
 ////////////////////////////////////////////////////////////////
 3. MainLayout and UploadLayout
 
-    A. MainLayout działa w komponencie main page
+//A. MainLayout działa w komponencie main page
+
+//B. Template stuff + components
+
+    Stąd biorę grafikę do tworzenia komponentów:
+    react-icons/bi
+    react-icons/ai
